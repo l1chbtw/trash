@@ -1,2 +1,2 @@
-vless://24f126ae-5d44-48f1-9314-c2e71ab43092@89.125.140.34:443/?type=xhttp&encryption=none&security=reality&flow=xtls-rprx-vision&sni=www.googletagmanager.com&fp=chrome&pbk=totKI5Urwp9ASmoPB16i7j3nLcEEajjW__avuMt3jn4&sid=86c838905e8b8d75#🇫🇮Zalypau-Finland🇫🇮
+vless://984beced-8736-4708-bc3e-c40015f37c44@89.125.140.34:443/?encryption=none&security=reality&flow=xtls-rprx-vision&sni=www.googletagmanager.com&fp=chrome&pbk=jX31Ty-sqT-Hokfck98pRf4MOkJV21VS6fT83-3WzxU&sid=c979d9820da4a819#🇫🇮Zalypau-Finland🇫🇮
 vless://ef9bf437-c832-472f-a0ee-489e2b7656a6@98.14.8.182:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=www.googletagmanager.com&pbk=5e8Dqr8uwHR5v6JsNCzpsuoEEwVFbDh93ueOHE0jqAc&sid=6180123ba90a4e0a#🇺🇸Zalypau-USA🇺🇸
